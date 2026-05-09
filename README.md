@@ -66,7 +66,7 @@ View in (screenshots)
 
 Detailed Documentation
 
-For architecture, workflow, and implementation details, see "PROJECT.md" (PROJECT.md)
+For architecture, workflow, and implementation details, see (PROJECT.md)
 
 Challenges Faced
 
