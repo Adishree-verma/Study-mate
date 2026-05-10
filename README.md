@@ -4,7 +4,7 @@ StudyMate is an AI-powered study productivity platform designed to help students
 
 Live Demo video
 
-([Watch Demo](https://www.dropbox.com/scl/fi/zz5i1ln5e25qmvpkexnso/video_20260511_010355.mp4?rlkey=hfyfe2mbibg528ima93y7j0vm&st=5oyhbzet&dl=0)
+([Watch Demo])(https://www.dropbox.com/scl/fi/zz5i1ln5e25qmvpkexnso/video_20260511_010355.mp4?rlkey=hfyfe2mbibg528ima93y7j0vm&st=5oyhbzet&dl=0)
 
 Features
 
